@@ -8,9 +8,7 @@
 
 ## 👀 Preview
 
-See the [gruvbox-material](https://github.com/sainnhe/gruvbox-material) repository for color previews.
-
-Sorry I don't want to screenshot 🤷‍♂️
+![gruvbox-material](./preview.png)
 
 ## 🎨 Installation
 
@@ -36,8 +34,6 @@ Add the these lines to your `theme.toml` configuration file to use it:
 
 ```toml
 [flavor]
-use = "gruvbox-material"
-# For Yazi 0.4 and above
 dark = "gruvbox-material"
 ```
 
