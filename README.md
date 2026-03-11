@@ -22,10 +22,10 @@ ya pkg add matt-dong-123/gruvbox-material
 
 ```bash
 # Linux/macOS
-git clone https://github.com/your-username/gruvbox-material.yazi.git ~/.config/yazi/flavors/gruvbox-material.yazi
+git clone https://github.com/matt-dong-123/gruvbox-material.yazi.git ~/.config/yazi/flavors/gruvbox-material.yazi
 
 # Windows
-git clone https://github.com/your-username/gruvbox-material.yazi.git %AppData%\yazi\config\flavors\gruvbox-material.yazi
+git clone https://github.com/matt-dong-123/gruvbox-material.yazi.git %AppData%\yazi\config\flavors\gruvbox-material.yazi
 ```
 
 ## ⚙️ Usage
